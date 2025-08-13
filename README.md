@@ -1,1 +1,1 @@
-# eazyportdolio
+# eazyportfolio
